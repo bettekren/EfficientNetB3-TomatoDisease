@@ -1,5 +1,5 @@
 # 🍅 LeafLens - Tomato Leaf Disease Detection with EfficientNetB3
-
+[EN]
 LeafLens, developed as part of a computer engineering graduation project and experimented with during that process, is a deep learning-based system aiming to classify tomato leaf diseases using image data.
 
 ## Dataset
@@ -78,6 +78,7 @@ Betül Ekren
 Computer Engineering, ZBEÜ - Class of 2025
 Project developed as part of final year thesis.
 
+[TR]
 # LeafLens - EfficientNetB3 ile Domates Yaprağı Hastalık Tespiti
 LeafLens, Bilgisayar Mühendisliği mezuniyet projesi kapsamında geliştirilmiş ve proje sürecinde denenmiş, domates yaprağı hastalıklarını görüntü verisi kullanarak sınıflandırmayı amaçlayan derin öğrenme tabanlı bir sistemdir.
 
