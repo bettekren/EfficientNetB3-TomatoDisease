@@ -8,12 +8,12 @@ LeafLens, developed as part of a computer engineering graduation project and exp
 - Assist in agricultural decision-making with AI-powered diagnostics.
 
 ## Project Structure
-| File | Description |
-|------|-------------|
-| `train_model.py` | Trains the model with training/validation data. |
-| `evaluate_model.py` | Evaluates model and plots results. |
-| `predict_external.py` | Predicts disease from an external leaf image. |
-| `gradcam_utils.py` | Applies segmentation and Grad-CAM heatmaps. |
+| File.                 | Description                                      |
+|-----------------------|--------------------------------------------------|
+| `train_model.py`      | Trains the model with training/validation data.  |
+| `evaluate_model.py`   | Evaluates model and plots results.               |
+| `predict_external.py` | Predicts disease from an external leaf image.    |
+| `gradcam_utils.py`    | Applies segmentation and Grad-CAM heatmaps.      |
 
 ## How to Run
 
@@ -36,13 +36,13 @@ pip install -r requirements.txt
 
 | Metric                | Value     |
 | --------------------- | --------- |
-| Test Accuracy       | **95.3%** |
-| Test Loss           | 0.2393    |
-| Training Accuracy   | 93.7%     |
-| Validation Accuracy | 91.5%     |
-| Test Samples       | 3211      |
-| Batch Size         | 1         |
-| Total Batches      | 3211      |
+| Test Accuracy         | **95.3%** |
+| Test Loss             | 0.2393    |
+| Training Accuracy     | 93.7%     |
+| Validation Accuracy   | 91.5%     |
+| Test Samples          | 3211      |
+| Batch Size            | 1         |
+| Total Batches         | 3211      |
 
 Results
  Training Accuracy: 93.6%
@@ -64,12 +64,12 @@ LeafLens, Bilgisayar Mühendisliği mezuniyet projesi kapsamında geliştirilmi�
 - Yapay zeka destekli teşhislerle tarımsal karar verme süreçlerine katkı sağlamak.
 
 ## Proje Dosya Yapısı
-| Dosya | Açıklama |
-|-------|----------|
-| `train_model.py` | Eğitim/doğrulama verisi ile modelin eğitilmesi. |
-| `evaluate_model.py` | Modelin değerlendirilmesi ve sonuçların grafikle gösterimi. |
-| `predict_external.py` | Harici yaprak görüntüsünden hastalık tahmini. |
-| `gradcam_utils.py` | Segmentasyon ve Grad-CAM ısı haritalarının uygulanması. |
+| Dosya                 | Açıklama                                                    |
+|-----------------------|-------------------------------------------------------------|
+| `train_model.py`      | Eğitim/doğrulama verisi ile modelin eğitilmesi.             |
+| `evaluate_model.py`   | Modelin değerlendirilmesi ve sonuçların grafikle gösterimi. |
+| `predict_external.py` | Harici yaprak görüntüsünden hastalık tahmini.               |
+| `gradcam_utils.py`    | Segmentasyon ve Grad-CAM ısı haritalarının uygulanması.     |
 
 ## Çalıştırma
 
