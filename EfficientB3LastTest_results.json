@@ -1,0 +1,9 @@
+{
+    "Test Loss": 0.2393,
+    "Test Accuracy": 0.953,
+    "Total Test Samples": 3211,
+    "Batch Size": 1,
+    "Total Batches": 3211,
+    "Training Accuracy": 0.9369,
+    "Validation Accuracy": 0.9154
+}
