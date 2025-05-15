@@ -2,6 +2,20 @@
 
 LeafLens, developed as part of a computer engineering graduation project and experimented with during that process, is a deep learning-based system aiming to classify tomato leaf diseases using image data.
 
+## Dataset
+
+This project utilizes the [Tomato Disease Multiple Sources Dataset](https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources) from Kaggle. Due to its size and licensing restrictions, the dataset is **not included** in this repository.
+
+Please download the dataset from the official source and follow the instructions in data_preparation.md to prepare the data for training and testing.
+## Dataset Arrangement
+
+The dataset used in this project is originally the Tomato Disease Multiple Sources Dataset, from which a balanced subset was created for this project.
+
+The training (train) folder contains 1001 images per disease class.
+The testing (test) folder includes 445 images per class.
+The validation (val) folder is organized with 501 images per class.
+This ensures that each class is equally represented in the training, testing, and validation phases, minimizing class imbalance.
+
 ## Project Objective
 - Diagnose tomato leaf diseases using CNNs (EfficientNetB3).
 - Visualize model attention using Grad-CAM.
