@@ -31,6 +31,15 @@ This ensures that each class is equally represented in the training, testing, an
 
 ## How to Run
 
+Model File
+
+The model file has been uploaded to the repository using Git LFS.
+
+To clone the repository completely and correctly, run:
+git lfs install
+git clone https://github.com/bettekren/EfficientNetB3-TomatoDisease.git
+
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -120,6 +129,16 @@ Sonuçlar
 Eğitim Doğruluğu: %93.6
 Doğrulama Doğruluğu: %91.5
 Test Doğruluğu: %95.3
+
+## Model Dosyası
+
+Model dosyası `Git LFS` kullanılarak repoya yüklenmiştir.
+
+Repoyu tam ve doğru şekilde klonlamak için:
+
+```bash
+git lfs install
+git clone https://github.com/bettekren/EfficientNetB3-TomatoDisease.git
 
 Betül Ekren
 Bilgisayar Mühendisliği, ZBEÜ - 2025 Mezunu
