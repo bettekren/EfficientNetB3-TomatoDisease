@@ -80,7 +80,7 @@ Project developed as part of final year thesis.
 
 [TR]
 # LeafLens - EfficientNetB3 ile Domates Yaprağı Hastalık Tespiti
-LeafLens, Bilgisayar Mühendisliği mezuniyet projesi kapsamında geliştirilmiş ve proje sürecinde denenmiş, domates yaprağı hastalıklarını görüntü verisi kullanarak sınıflandırmayı amaçlayan derin öğrenme tabanlı bir sistemdir.
+LeafLens, bilgisayar mühendisliği mezuniyet projesi kapsamında geliştirilmiş ve proje sürecinde denenmiş, görüntü verisi kullanarak domates yaprağı hastalıklarını sınıflandırmayı amaçlayan derin öğrenme tabanlı bir sistemdir.
 
 ## Projenin Amacı
 - CNN’ler (EfficientNetB3) kullanarak domates yaprağı hastalıklarının teşhisi.
