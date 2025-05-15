@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 | Metric                | Value     |
 | --------------------- | --------- |
-| Test Accuracy         | **95.3%** |
+| Test Accuracy         | 95.3%     |
 | Test Loss             | 0.2393    |
 | Training Accuracy     | 93.7%     |
 | Validation Accuracy   | 91.5%     |
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 | Metrik               | Değer     |
 | -------------------  | --------- |
-| Test Doğruluğu       | **95.3%** |
+| Test Doğruluğu       | 95.3%     |
 | Test Kaybı           | 0.2393    |
 | Eğitim Doğruluğu     | 93.7%     |
 | Doğrulama Doğruluğu  | 91.5%     |
